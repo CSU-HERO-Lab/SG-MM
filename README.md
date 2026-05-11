@@ -1,11 +1,11 @@
 # Spatially Generalizable Mobile Manipulation via Adaptive Experience Selection and Dynamic Imagination
 
-Repository providing the source code for the paper "Spatially Generalizable Mobile Manipulation via Adaptive Experience Selection and Dynamic Imagination", see the [project website](https://307lab.github.io/SG-MM_Web/).  
+Repository providing the source code for the paper "Spatially Generalizable Mobile Manipulation via Adaptive Experience Selection and Dynamic Imagination", see the [project website](https://csu-hero-lab.github.io/SG-MM_Web/).  
 Please cite the paper as follows:
 
     @article{SG-MM,
         title={Spatially Generalizable Mobile Manipulation via Adaptive Experience Selection and Dynamic Imagination},
-        journal={Proceeding of the XXX}, 
+        journal={Proceeding of the International Joint Conferences on Artificial Intelligence}, 
         author={Ping Zhong and Liangbai Liu and Bolei Chen and Tao Wu},
         year={2026},
     }
